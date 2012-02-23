@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: m3nd3s.github.com/flisoles/
+url: m3nd3s.github.com/flisoles
 title: FLISOL/ES Vitória
 subtitle: Festival Latinoamericano de Instalação de Software Livre - 28 de Abril 2012
 author: m3nd3s
@@ -26,7 +26,7 @@ email:
 # ----------------------- #
 
 # If publishing to a subdirectory as in http://site.com/project set 'root: /project'
-root: /
+root: /flisoles
 permalink: /blog/:year/:month/:day/:title/
 source: source
 destination: public
