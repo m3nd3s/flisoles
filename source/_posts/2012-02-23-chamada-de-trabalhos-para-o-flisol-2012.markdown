@@ -6,7 +6,7 @@ comments: true
 categories: 
 ---
 
-O [ FLISOL ](http://flisol.info/FLISOL2012) (Festival Latinoamericano de Instalação de Software Livre) é o maior evento de divulgação de Software Livre da América Latina. Ele acontece desde 2005 e seu principal objetivo é promover o uso de software livre, apresentando sua filosofia, seu alcance, avanços e desenvolvimento ao público em geral.
+O [ FLISOL ](http://flisol.info/FLISOL2012) (Festival Latino-americano de Instalação de Software Livre) é o maior evento de divulgação de Software Livre da América Latina. Ele acontece desde 2005 e seu principal objetivo é promover o uso de software livre, apresentando sua filosofia, seu alcance, avanços e desenvolvimento ao público em geral.
 
 Com esta finalidade, diversas comunidades locais de software livre (em cada país, em cada cidade/localidade), organizam simultaneamente eventos em que se instala gratuitamente e totalmente legal, software livre nos computadores levados pelos participantes. Também, paralelamente, são oferecidas apresentações, palestras e oficinas, sobre temas locais, nacionais e latinoamericanos sobre Software Livre, com toda sua variedade de expressões: artística, acadêmica, empresarial e social.
 
