@@ -22,18 +22,18 @@ A Programação está sujeita a alterações sem aviso prévio.
 
   <tr>
     <td>09:00 - 10:00</td>
-    <td colspan="2">Palestra 1</td>
+    <td colspan="2">Ruby, simples e expressivo! - <small><a href="http://rrmartins.github.com/">Rodrigo Martins</a></small></td>
   </tr>
 
   <tr>
     <td>10:00 - 11:00</td>
-    <td>Palestra 2</td>
+    <td>Wordpress e suas funções - <small><a href="http://danielmarcos.com.br/">Daniel Marcos</a></small></td>
     <td>Install Fest</td>
   </tr>
 
   <tr>
     <td>11:00 - 12:00</td>
-    <td>Palestra 3</td>
+    <td>Pfsense - Configuração Rápida e Prática - <small><a href="rodrigogriffo.blogspot.com">Rodrigo Griffo</a></small></td>
     <td>Install Fest</td>
   </tr>
 
