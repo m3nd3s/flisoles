@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Programação"
+title: "Programa&ccedil;&atilde;o"
 date: 2012-02-23 20:02
 comments: true
 sharing: true
