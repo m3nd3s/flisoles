@@ -33,7 +33,6 @@ A Programação está sujeita a alterações sem aviso prévio.
   <tr>
     <td>11:00 - 12:00</td>
     <td>Pfsense - Configuração Rápida e Prática - <small><a href="http://rodrigogriffo.blogspot.com">Rodrigo Griffo</a></small></td>
-    <td>Install Fest</td>
   </tr>
 
   <tr>
