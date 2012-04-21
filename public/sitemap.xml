@@ -2,66 +2,66 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>
-            m3nd3s.github.com/flisoles/blog/2012/02/23/chamada-de-trabalhos-para-o-flisol-2012/
+            http://flisol-es.heroku.com/blog/2012/02/23/chamada-de-trabalhos-para-o-flisol-2012/
         </loc>
         <lastmod>2012-03-11T16:21:13-03:00</lastmod>
     </url>
     <url>
-        <loc>m3nd3s.github.com/flisoles/blog/2012/03/17/edicoes-anteriores/</loc>
+        <loc>http://flisol-es.heroku.com/blog/2012/03/17/edicoes-anteriores/</loc>
         <lastmod>2012-03-17T20:28:53-03:00</lastmod>
     </url>
     <url>
         <loc>
-            m3nd3s.github.com/flisoles/blog/2012/03/19/inscricoes-abertas-para-o-flisol-2012/
+            http://flisol-es.heroku.com/blog/2012/03/19/inscricoes-abertas-para-o-flisol-2012/
         </loc>
         <lastmod>2012-03-19T21:32:37-03:00</lastmod>
     </url>
     <url>
-        <loc>m3nd3s.github.com/flisoles/blog/archives/</loc>
+        <loc>http://flisol-es.heroku.com/blog/archives/</loc>
         <lastmod>2012-03-19T21:32:37-03:00</lastmod>
     </url>
     <url>
-        <loc>m3nd3s.github.com/flisoles/faq/</loc>
+        <loc>http://flisol-es.heroku.com/faq/</loc>
         <lastmod>2012-02-23T20:39:02-02:00</lastmod>
     </url>
     <url>
-        <loc>m3nd3s.github.com/flisoles/</loc>
+        <loc>http://flisol-es.heroku.com/</loc>
         <lastmod>2012-03-19T21:32:37-03:00</lastmod>
     </url>
     <url>
-        <loc>m3nd3s.github.com/flisoles/location/</loc>
+        <loc>http://flisol-es.heroku.com/location/</loc>
         <lastmod>2012-02-23T20:45:07-02:00</lastmod>
     </url>
     <url>
-        <loc>m3nd3s.github.com/flisoles/organization/</loc>
+        <loc>http://flisol-es.heroku.com/organization/</loc>
         <lastmod>2012-03-06T14:20:55-03:00</lastmod>
     </url>
     <url>
-        <loc>m3nd3s.github.com/flisoles/pfsense/</loc>
+        <loc>http://flisol-es.heroku.com/pfsense/</loc>
         <lastmod>2012-04-21T09:25:35-03:00</lastmod>
     </url>
     <url>
-        <loc>m3nd3s.github.com/flisoles/pomodoro/</loc>
+        <loc>http://flisol-es.heroku.com/pomodoro/</loc>
         <lastmod>2012-04-21T09:28:10-03:00</lastmod>
     </url>
     <url>
-        <loc>m3nd3s.github.com/flisoles/registration/</loc>
+        <loc>http://flisol-es.heroku.com/registration/</loc>
         <lastmod>2012-03-19T21:14:23-03:00</lastmod>
     </url>
     <url>
-        <loc>m3nd3s.github.com/flisoles/ruby/</loc>
+        <loc>http://flisol-es.heroku.com/ruby/</loc>
         <lastmod>2012-04-21T09:18:34-03:00</lastmod>
     </url>
     <url>
-        <loc>m3nd3s.github.com/flisoles/schedule/</loc>
+        <loc>http://flisol-es.heroku.com/schedule/</loc>
         <lastmod>2012-04-21T09:32:27-03:00</lastmod>
     </url>
     <url>
-        <loc>m3nd3s.github.com/flisoles/shellscript/</loc>
+        <loc>http://flisol-es.heroku.com/shellscript/</loc>
         <lastmod>2012-04-21T09:33:18-03:00</lastmod>
     </url>
     <url>
-        <loc>m3nd3s.github.com/flisoles/wordpress/</loc>
+        <loc>http://flisol-es.heroku.com/wordpress/</loc>
         <lastmod>2012-04-21T09:20:38-03:00</lastmod>
     </url>
 </urlset>

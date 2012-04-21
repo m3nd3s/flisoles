@@ -2,9 +2,9 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: m3nd3s.github.com/flisoles
-title: FLISOL/ES Vitória
-subtitle: Festival Latino-americano de Instalação de Software Livre - 28 de Abril 2012
+url: http://flisol-es.heroku.com
+title: FLISOL/ES Vit&oacute;ria
+subtitle: Festival Latino-americano de Instala&ccedil;&atilde;o de Software Livre - 28 de Abril 2012
 author: m3nd3s
 simple_search: http://google.com/search
 description: 
@@ -92,7 +92,7 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name: flisol-vitoria-es
+disqus_short_name: "flisol-vitoria-es"
 disqus_show_comment_count: true
 
 # Google Analytics
