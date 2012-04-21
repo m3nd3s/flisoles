@@ -18,4 +18,10 @@ Se você tem o interesse de instalar alguma distribuição GNU/Linux em seu comp
 
 > O FLISOL2012 é um evento que irá realizar a instalação de Software Livre, bem como lhe fornecer indicações de como e onde obter mais informações e suporte. Para participar das instalações basta comparecer no local do evento, ler e concordar com todos os itens do **Termo de Responsabilidade** - e levar o seu microcomputador até o local do evento 
 
-> O interessado compromete-se a fazer uma cópia de todos os seus dados que estão no seu computador. A organização do FLISOL2012 não se responsabiliza pelo armazenamento de arquivos no computador e não efetuará back-up para os participantes. O evento não se responsabiliza por perda de dados conforme citado acima. No caso em que haja interesse de configuração de dual boot (mais de um sistema operacional instalado na mesma máquina), ou de reparticionamento de uma máquina com sistema operacional já instalada, o evento não é responsável pela estabilidade do sistema ou instalação de outros sistemas operacionais presentes. Não nos responsabilizamos por qualquer dano físico ou lógico ocasionado anteriormente ou durante a instalação. 
+> O interessado compromete-se a fazer uma cópia de todos os seus dados que estão no seu computador. A organização do FLISOL2012 não se responsabiliza pelo armazenamento de arquivos no computador e não efetuará back-up para os participantes. O evento não se responsabiliza por perda de dados conforme citado acima. No caso em que haja interesse de configuração de dual boot (mais de um sistema operacional instalado na mesma máquina), ou de reparticionamento de uma máquina com sistema operacional já instalada, o evento não é responsável pela estabilidade do sistema ou instalação de outros sistemas operacionais presentes. Não nos responsabilizamos por qualquer dano físico ou lógico ocasionado anteriormente ou durante a instalação.
+
+Caso ainda não saiba onde o evento será realizado de um pulinho [AQUI](location) e confirme o local, caso ainda não tenha feito sua inscrição aproveite e faça agora, ainda estamos com as inscrições abertas, mas será por pouco tempo! Acesse o [formulário de inscrição aqui](registration) e garanta já sua inscrição!
+
+**Nos vemos no dia 28 de Abril!**
+
+`\\//` live long and prosper
