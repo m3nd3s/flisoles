@@ -24,4 +24,4 @@ Caso ainda não saiba onde o evento será realizado de um pulinho [AQUI](locatio
 
 **Nos vemos no dia 28 de Abril!**
 
-`\\//` live long and prosper
+`\\//` _live long and prosper!_
