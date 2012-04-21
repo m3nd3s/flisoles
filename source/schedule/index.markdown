@@ -22,17 +22,17 @@ A Programação está sujeita a alterações sem aviso prévio.
 
   <tr>
     <td>09:00 - 10:00</td>
-    <td>Ruby, simples e expressivo! - <small><a href="http://rrmartins.github.com/">Rodrigo Martins</a></small></td>
+    <td><a href="ruby">Ruby, simples e expressivo!</a> - <small><a href="http://rrmartins.github.com/">Rodrigo Martins</a></small></td>
   </tr>
 
   <tr>
     <td>10:00 - 11:00</td>
-    <td>Wordpress e suas funções - <small><a href="http://danielmarcos.com.br/">Daniel Marcos</a></small></td>
+    <td><a href="wordpress">Wordpress e suas funções</a> - <small><a href="http://danielmarcos.com.br/">Daniel Marcos</a></small></td>
   </tr>
 
   <tr>
     <td>11:00 - 12:00</td>
-    <td>Pfsense - Configuração Rápida e Prática - <small><a href="http://rodrigogriffo.blogspot.com">Rodrigo Griffo</a></small></td>
+    <td><a href="pfsense">Pfsense - Configuração Rápida e Prática</a> - <small><a href="http://rodrigogriffo.blogspot.com">Rodrigo Griffo</a></small></td>
   </tr>
 
   <tr>
@@ -42,21 +42,16 @@ A Programação está sujeita a alterações sem aviso prévio.
 
   <tr>
     <td>14:00 - 15:00</td>
-    <td>Palestra 4</td>
+    <td><a href="pomodoro">A Arte de pomodorar</a> - <small><a href="http://www.leohackin.com.br">L&eacute;o Hackin</a></small></td>
   </tr>
 
   <tr>
     <td>15:00 - 16:00</td>
-    <td>Palestra 5</td>
+    <td><a href="shellscript">Um passeio pelo ShellScript</a> - <small><a href="http://www.almirmendes.com">Almir 'm3nd3s'</a></small></td>
   </tr>
 
   <tr>
-    <td>16:00 - 17:00</td>
-    <td>Palestra 6</td>
-  </tr>
-
-  <tr>
-    <td>17:00</td>
+    <td>16:00</td>
     <td>Encerramento</td>
   </tr>
 
