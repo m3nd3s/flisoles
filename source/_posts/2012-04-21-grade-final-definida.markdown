@@ -6,9 +6,9 @@ comments: true
 categories: grade
 ---
 
-É com grande alegria e entusiamos que anunciamos a grade oficial para o FLISOL Vitória/ES! Demorou um pouco, mais que o esperado, mas finalmente conseguimos confirmar todas as palestras que desejavamos para este FLISOL 2012. Uma novidade interessante para a grede deste ano é a inclusão de uma palestra _não exatamente técnica_, ela ficará por conta do palestrante [Léo Hackin](pomodoro) sobre uma técnica que pode ajudar muito na produtividade em seu trabalho ou mesmo nos estudos.
+É com grande alegria e entusiamos que anunciamos a grade oficial para o FLISOL Vitória/ES! Demorou um pouco, mais que o esperado, mas finalmente conseguimos confirmar todas as palestras que desejavamos para este FLISOL 2012. Uma novidade interessante para a grede deste ano é a inclusão de uma palestra _não exatamente técnica_, ela ficará por conta do palestrante [Léo Hackin]({{root_url}}/pomodoro) sobre uma técnica que pode ajudar muito na produtividade em seu trabalho ou mesmo nos estudos.
 
-A grade completa você pode conferir [AQUI](schedule).
+A grade completa você pode conferir [AQUI]({{root_url}}/schedule).
 
 Além da grade de palestras teremos também o **InstallFest** que estará acontecendo durante todo o evento, membros da comunidade Tux-ES estarão a sua disposição para instalar e configurar diversos software livres em seu computador ;)
 
@@ -20,7 +20,7 @@ Se você tem o interesse de instalar alguma distribuição GNU/Linux em seu comp
 
 > O interessado compromete-se a fazer uma cópia de todos os seus dados que estão no seu computador. A organização do FLISOL2012 não se responsabiliza pelo armazenamento de arquivos no computador e não efetuará back-up para os participantes. O evento não se responsabiliza por perda de dados conforme citado acima. No caso em que haja interesse de configuração de dual boot (mais de um sistema operacional instalado na mesma máquina), ou de reparticionamento de uma máquina com sistema operacional já instalada, o evento não é responsável pela estabilidade do sistema ou instalação de outros sistemas operacionais presentes. Não nos responsabilizamos por qualquer dano físico ou lógico ocasionado anteriormente ou durante a instalação.
 
-Caso ainda não saiba onde o evento será realizado de um pulinho [AQUI](location) e confirme o local, caso ainda não tenha feito sua inscrição aproveite e faça agora, ainda estamos com as inscrições abertas, mas será por pouco tempo! Acesse o [formulário de inscrição aqui](registration) e garanta já sua inscrição!
+Caso ainda não saiba onde o evento será realizado de um pulinho [AQUI]({{root_url}}/location) e confirme o local, caso ainda não tenha feito sua inscrição aproveite e faça agora, ainda estamos com as inscrições abertas, mas será por pouco tempo! Acesse o [formulário de inscrição aqui]({{root_url}}/registration) e garanta já sua inscrição!
 
 **Nos vemos no dia 28 de Abril!**
 
