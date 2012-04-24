@@ -32,7 +32,7 @@ A Programação está sujeita a alterações sem aviso prévio.
 
   <tr>
     <td>11:00 - 12:00</td>
-    <td><a href="pfsense">Pfsense - Configuração Rápida e Prática</a> - <small><a href="http://rodrigogriffo.blogspot.com">Rodrigo Griffo</a></small></td>
+    <td><a href="jruby">JRuby, o melhor dos 2 mundos</a> - <small><a href="http://www.flexait.com/">Márcio Sfalsin</a></small></td>
   </tr>
 
   <tr>
