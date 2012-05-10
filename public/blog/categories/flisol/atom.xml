@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: flisol | FLISOL/ES Vit&oacute;ria]]></title>
+  <link href="http://flisol-es.heroku.com/blog/categories/flisol/atom.xml" rel="self"/>
+  <link href="http://flisol-es.heroku.com/"/>
+  <updated>2012-05-10T12:34:50-03:00</updated>
+  <id>http://flisol-es.heroku.com/</id>
+  <author>
+    <name><![CDATA[m3nd3s]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Disponíveis os slides das palestras]]></title>
+    <link href="http://flisol-es.heroku.com/blog/2012/05/06/slides/"/>
+    <updated>2012-05-06T16:06:00-03:00</updated>
+    <id>http://flisol-es.heroku.com/blog/2012/05/06/slides</id>
+    <content type="html"><![CDATA[<p>Salve amigos!</p>
+
+<p>Segue abaixo o link de cada palestra que ministrada no FLISOL 2012, demoramos um pouco mas enfim conseguimos reunir todos os links e publicar este artigo centralizando as informações.</p>
+
+<ul>
+<li><a href="http://www.slideshare.net/rrmartins/ruby-simples-e-expressivo">Ruby, simples e expressivo!</a></li>
+<li><a href="http://www.slideshare.net/daniel2marcos/wordpress-e-suas-funes">Wordpress e suas funções</a></li>
+<li><a href="http://www.slideshare.net/marciosfalsin/jruby-o-melhor-de-2-mundos-macgyver-chucknorris">JRuby - Java + Ruby o melhor de 2 mundos</a></li>
+<li><a href="http://www.slideshare.net/leohackin/a-arte-depomodorar">A Arte de pomodorar</a></li>
+<li><a href="http://speakerdeck.com/u/m3nd3s/p/introducao-a-shellscript">ShellScript</a></li>
+</ul>
+
+
+<p>Além também já foram enviandos os certificados de participação para cada participante que confirmou sua presença no dia, caso você tenha participado mas não tenha recebido o seu certificado por e-mail pedimos que entre em contato conosco através da lista de discussão (o link está disponívei no <a href="http://www.tux-es.org/portal/pagina-exemplo/">site da comunidade Tux-ES</a>) ou deixando um comentário neste post ;)</p>
+]]></content>
+  </entry>
+  
+</feed>

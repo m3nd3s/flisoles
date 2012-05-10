@@ -15,3 +15,5 @@ Daniel Marcos
 Search wine, trabalho com SEO e desenvolvimento web. Experiência em wordpress. 
 
 **Twitter:** @daniel2marcos | **Facebook**: fb.com/daniel2marcos
+
+#### [Slides da palestra](http://www.slideshare.net/daniel2marcos/wordpress-e-suas-funes)

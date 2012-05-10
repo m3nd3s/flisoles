@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Disponíveis os slides das palestras"
+date: 2012-05-06 16:06
+comments: true
+categories: slides, palestra, flisol
+---
+
+Salve amigos!
+
+Segue abaixo o link de cada palestra que ministrada no FLISOL 2012, demoramos um pouco mas enfim conseguimos reunir todos os links e publicar este artigo centralizando as informações.
+
+* [Ruby, simples e expressivo!](http://www.slideshare.net/rrmartins/ruby-simples-e-expressivo)
+* [Wordpress e suas funções](http://www.slideshare.net/daniel2marcos/wordpress-e-suas-funes)
+* [JRuby - Java + Ruby o melhor de 2 mundos](http://www.slideshare.net/marciosfalsin/jruby-o-melhor-de-2-mundos-macgyver-chucknorris)
+* [A Arte de pomodorar](http://www.slideshare.net/leohackin/a-arte-depomodorar)
+* [ShellScript](http://speakerdeck.com/u/m3nd3s/p/introducao-a-shellscript)
+
+Além também já foram enviandos os certificados de participação para cada participante que confirmou sua presença no dia, caso você tenha participado mas não tenha recebido o seu certificado por e-mail pedimos que entre em contato conosco através da lista de discussão (o link está disponívei no [site da comunidade Tux-ES]( http://www.tux-es.org/portal/pagina-exemplo/ )) ou deixando um comentário neste post ;)

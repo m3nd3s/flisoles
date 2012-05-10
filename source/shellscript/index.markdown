@@ -14,3 +14,5 @@ Almir 'm3nd3s'
 -------------
 
 Um desenvolvedor que gosta de software livre e desenvolvimento web. Trabalho com desenvolvimento de E-commerce utilizando a framework Ruby on Rails na Giran. Graduando(falta pouco \o/) em ciência da computação.
+
+#### [Slides da palestra](http://speakerdeck.com/u/m3nd3s/p/introducao-a-shellscript)

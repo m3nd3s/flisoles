@@ -15,3 +15,5 @@ Léo Hackin
 Founder e CIO da Giran E-commerce Solutions, atua como consultor e arquiteto especialista em aplicações web, mobile e como aprendiz eterno de XP/Scrum/Lean/qualquer-coisa-que-melhore-o-trabalho-das-pessoas. Atuante no mercado de internet há mais de 10 anos, já desenvolveu soluções para as mais diversas plataformas para clientes como Vale, Claro, CEF, Xerox, Sebrae e outras além de vários trabalhos como consultor/desenvolvedor para diversas empresas do estado. Foi um dos coordenadores do grupo PHP-ES e atualmente está engajado em divulgar outras tecnologias. Divide seu tempo (ou tenta) entre sua vida geek, trabalho, música, programação e seu blog.
 
 **Twitter:** @leohackin
+
+#### [Slides da palestra](http://www.slideshare.net/leohackin/a-arte-depomodorar)
